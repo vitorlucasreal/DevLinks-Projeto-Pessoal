@@ -150,6 +150,16 @@ ul li a:hover {
   border: 1px solid var(--text-color);
 }
 
+/*ul icons */
+
+#contato {
+  padding-left: 10px;
+}
+
+#playlist {
+  padding-left: 10px;
+}
+
 /* Social Links */
 #socialLinks {
   display: flex;
